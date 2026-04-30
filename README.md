@@ -20,6 +20,10 @@
 
 2.超分倍率也可以自行设置，默认放大 2 倍，建议不要太大，太大了我也不知道会发生什么。
 
+3.理论上是所有平台适用的，但也说不准，我只测试了通过napcat的qq服务
+
+~~抄袭~~借鉴了[IORNY](https://github.com/ElainaFanBoy/IRONY.git)里的超分插件~~据说他也是抄的，但我忘记抄的谁了，谁感兴趣自己去找吧~~
+
 # Supports
 
 - [AstrBot Repo](https://github.com/AstrBotDevs/AstrBot)
