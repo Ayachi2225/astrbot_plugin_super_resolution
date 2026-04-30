@@ -1,0 +1,6 @@
+httpx
+Pillow>=11.1.0
+numpy
+ujson
+basicsr
+realesrgan

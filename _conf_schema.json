@@ -1,0 +1,22 @@
+{
+  "max size": {
+    "description": "输入图片的最大尺寸，单位为像素。超过该尺寸的图片将被拒绝处理。",
+    "type": "int",
+    "default": 7372800
+  },
+  "cd": {
+    "description": "用户每隔多少时间可以再次超分",
+    "type": "int",
+    "default": 600
+  },
+  "waitting": {
+    "description": "超分处理中提示等待的时间，单位为秒",
+    "type": "int",
+    "default": 30
+  },
+  "outscale": {
+    "description": "超分倍数(长或宽），面积为平方",
+    "type": "int",
+    "default": 2
+  }
+}
