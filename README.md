@@ -4,9 +4,10 @@
 
 安装:
 
-在 astrbot 插件市场中直接安装或者将本插件 clone 到"AstrBot\data\plugins"中
+在 astrbot 插件市场中直接安装或者将本仓库 clone 到"AstrBot\data\plugins"中
 
 **注意：目前 basicsr 在 python3.13 安装有问题，直接`pip install basicsr`是不行的，因此除了`pip install -r requirements.txt` 之外**
+
 **还需要从我修改的仓库安装 basicsr，`pip install https://github.com/Ayachi2225/BasicSR_fix_set_up.git`，在 astrbot 插件市场安装的也要！**（uv 或者 conda 安装的自行修改 pip 命令即可）
 
 使用例：输入：/超分 ，等待机器人回复，然后发送图片，等待一段时间即可
